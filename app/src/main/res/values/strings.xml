@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherSample</string>
+    <string name="main_title">Weather Sample</string>
+    <string name="main_description">quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="main_next">Next</string>
+    <string name="morning">오전</string>
+    <string name="chance_of_rain">강수확률</string>
+    <string name="temperature">기온</string>
+</resources>
