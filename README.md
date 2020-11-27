@@ -1,5 +1,5 @@
 # WeatherSample
-It's very simple android application using MVVM Clean Architecture, In this project, we scrape the weather data using `Jsoup`. 
+It's very simple android application using MVVM Clean Architecture, In this project. we scrape the weather data using `Jsoup`. 
 
 <p align="center">
 <img src="./art/demo_mobile.png" width="32%">
